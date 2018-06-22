@@ -1,0 +1,33 @@
+body{
+	background: linear-gradient(to right,#8b008b,#9932cc,#9400d3);
+}
+.header{
+	text-align: center;
+	color: #ffffff;
+	/*background: linear-gradient(#8b008b,#9932cc,#9400d3);*/
+}
+
+.blank{
+	text-align: center;
+	margin-top: 2%;
+}
+h4{
+	color: 	#800000;
+}
+
+.buttons{
+	text-align: center;
+	margin-top: 2%;
+}
+#myBtn{
+	border-radius: 50%;
+	padding: 12px 28px;
+	background-color: #ff00ff;
+}
+.group{
+	text-align: center;
+	color: 	#deb887;
+}
+p{
+	font-size: 20px;
+}
