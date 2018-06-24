@@ -33,10 +33,10 @@ var zodiac =[
 		strengths: 'Reliable, patient, practical, devoted, responsible, stable',
 	},
 	{
-		name: 'gemni',
+		name: 'gemini',
 		date:'May 21 - June 20',
 		element: 'Air',
-		image:'img/',
+		image:'img/gemini.png',
 		strengths:'Gentle, affectionate, curious, adaptable, ability to learn quickly and exchange ideas',
 	},
 	{
